@@ -1,0 +1,8 @@
+{
+  "name": "Dido Store للشحن",
+  "description": "متجر Dido Store للخدمات الرقمية وشحن الألعاب والعملات المشفرة وبطاقات Redotpay والإعلانات الممولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
